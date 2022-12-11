@@ -43,3 +43,9 @@ This is a project scaffold for Python Project with Continuous Intregation.
 4. Commit your changes
 5. Your should see the Action running in the *Actions* page.
 6. Optionally, to see the status of the action in your repository first page: add a badge to the README.md file by going to your repository's Actions page, select your workflow in the left side, click in the three dots in the right side, select *Create status badge* and copy the text. Then edit the README.md, paste the text there and commit changes.
+
+
+## Duplicating this repository
+
+[Duplicating this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository)
+
